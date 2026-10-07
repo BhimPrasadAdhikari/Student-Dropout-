@@ -1,0 +1,22 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Word and PowerPoint Documents
+*.docx
+*.pptx
+
+# Scripts for generating documents & presentations
+generate_report.py
+generate_presentation.py
+
+# System files
+.DS_Store
+Thumbs.db
